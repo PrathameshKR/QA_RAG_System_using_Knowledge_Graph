@@ -1,0 +1,758 @@
+[
+  {
+    "subject": "Spock",
+    "relation": "served as",
+    "object": "science officer",
+    "time": "23rd century"
+  },
+  {
+    "subject": "Leonard Nimoy",
+    "relation": "played",
+    "object": "Spock",
+    "time": ""
+  },
+  {
+    "subject": "Spock",
+    "relation": "is_a_character_in",
+    "object": "Star Trek",
+    "time": ""
+  },
+  {
+    "subject": "Leonard Nimoy",
+    "relation": "started_starring_in",
+    "object": "Star Trek",
+    "time": "1966"
+  },
+  {
+    "subject": "Leonard Nimoy",
+    "relation": "ended_starring_in",
+    "object": "Star Trek",
+    "time": "1991"
+  },
+  {
+    "subject": "Leonard Nimoy",
+    "relation": "born_in_year",
+    "object": "1931",
+    "time": "1931"
+  },
+  {
+    "subject": "Leonard Nimoy",
+    "relation": "passed_away_in_year",
+    "object": "2015",
+    "time": "2015"
+  },
+  {
+    "subject": "Spock",
+    "relation": "is_a_type_of",
+    "object": "fictional character",
+    "time": ""
+  },
+  {
+    "subject": "Leonard Nimoy",
+    "relation": "is_a_type_of",
+    "object": "person",
+    "time": ""
+  },
+  {
+    "subject": "Leonard Nimoy",
+    "relation": "played",
+    "object": "Spock",
+    "time": "1966"
+  },
+  {
+    "subject": "Spock",
+    "relation": "is a character in",
+    "object": "Star Trek",
+    "time": "1966"
+  },
+  {
+    "subject": "Leonard Nimoy",
+    "relation": "starred in",
+    "object": "Star Trek",
+    "time": "1966"
+  },
+  {
+    "subject": "Leonard Nimoy",
+    "relation": "born",
+    "object": "1931",
+    "time": "1931"
+  },
+  {
+    "subject": "Leonard Nimoy",
+    "relation": "passed away",
+    "object": "2015",
+    "time": "2015"
+  },
+  {
+    "subject": "Leonard Nimoy",
+    "relation": "is a type of",
+    "object": "person",
+    "time": "1931"
+  },
+  {
+    "subject": "Spock",
+    "relation": "is a",
+    "object": "real life character",
+    "time": "2021"
+  },
+  {
+    "subject": "Reaction turbines",
+    "relation": "work by",
+    "object": "channeling a fluid through blades",
+    "time": "2021"
+  },
+  {
+    "subject": "Blades in reaction turbines",
+    "relation": "expand",
+    "object": "the fluid",
+    "time": "2021"
+  },
+  {
+    "subject": "Reaction turbines",
+    "relation": "convert",
+    "object": "pressure into force on blades",
+    "time": "2021"
+  },
+  {
+    "subject": "Blades in reaction turbines",
+    "relation": "receive",
+    "object": "the same load",
+    "time": "2021"
+  },
+  {
+    "subject": "A reaction turbine",
+    "relation": "can have",
+    "object": "multiple sets of rotors",
+    "time": "2021"
+  },
+  {
+    "subject": "Multiple sets of rotors",
+    "relation": "are called",
+    "object": "stages",
+    "time": "2021"
+  },
+  {
+    "subject": "Stages",
+    "relation": "are optimized for",
+    "object": "the pressure in the fluid flow",
+    "time": "2021"
+  },
+  {
+    "subject": "Wind turbines",
+    "relation": "are a type of",
+    "object": "reaction turbine",
+    "time": "2021"
+  },
+  {
+    "subject": "Gas turbines",
+    "relation": "are a type of",
+    "object": "reaction turbine",
+    "time": "2021"
+  },
+  {
+    "subject": "Gas turbines",
+    "relation": "are used for",
+    "object": "jet engines",
+    "time": "2021"
+  },
+  {
+    "subject": "Steam turbines",
+    "relation": "are a type of",
+    "object": "reaction turbine",
+    "time": "2021"
+  },
+  {
+    "subject": "Natural gas power turbines",
+    "relation": "are a type of",
+    "object": "reaction turbine",
+    "time": "2021"
+  },
+  {
+    "subject": "Reaction turbines",
+    "relation": "use",
+    "object": "a shroud",
+    "time": "2021"
+  },
+  {
+    "subject": "Reaction turbines",
+    "relation": "use",
+    "object": "a case",
+    "time": "2021"
+  },
+  {
+    "subject": "A shroud",
+    "relation": "positions",
+    "object": "the fluid flow through the turbine blades",
+    "time": "2021"
+  },
+  {
+    "subject": "A case",
+    "relation": "positions",
+    "object": "the fluid flow through the turbine blades",
+    "time": "2021"
+  },
+  {
+    "subject": "Fluid flow in reaction turbines",
+    "relation": "undergoes",
+    "object": "a significant pressure drop",
+    "time": "2021"
+  },
+  {
+    "subject": "Reaction turbines",
+    "relation": "work by",
+    "object": "channeling a fluid through a set of blades",
+    "time": null
+  },
+  {
+    "subject": "Blades (in reaction turbines)",
+    "relation": "expand",
+    "object": "the fluid",
+    "time": null
+  },
+  {
+    "subject": "Blades (in reaction turbines)",
+    "relation": "convert",
+    "object": "pressure into force",
+    "time": null
+  },
+  {
+    "subject": "Each blade (in a reaction turbine)",
+    "relation": "receives",
+    "object": "the same load",
+    "time": null
+  },
+  {
+    "subject": "A reaction turbine",
+    "relation": "can have",
+    "object": "multiple sets of rotors",
+    "time": null
+  },
+  {
+    "subject": "Multiple sets of rotors",
+    "relation": "are called",
+    "object": "stages",
+    "time": null
+  },
+  {
+    "subject": "Stages (of a reaction turbine)",
+    "relation": "are optimized for",
+    "object": "the pressure in that part of the fluid flow",
+    "time": null
+  },
+  {
+    "subject": "Wind turbines",
+    "relation": "are a type of",
+    "object": "reaction turbine",
+    "time": null
+  },
+  {
+    "subject": "Gas turbines",
+    "relation": "are a type of",
+    "object": "reaction turbine",
+    "time": null
+  },
+  {
+    "subject": "Gas turbines",
+    "relation": "are used for",
+    "object": "jet engines",
+    "time": null
+  },
+  {
+    "subject": "Most steam turbines",
+    "relation": "are a type of",
+    "object": "reaction turbine",
+    "time": null
+  },
+  {
+    "subject": "Natural gas power turbines",
+    "relation": "are a type of",
+    "object": "reaction turbine",
+    "time": null
+  },
+  {
+    "subject": "Reaction turbines",
+    "relation": "use",
+    "object": "a shroud or case",
+    "time": null
+  },
+  {
+    "subject": "A shroud or case (in reaction turbines)",
+    "relation": "is used to",
+    "object": "position the fluid flow through the turbine blades",
+    "time": null
+  },
+  {
+    "subject": "The flow in reaction turbines",
+    "relation": "undergoes",
+    "object": "a significant pressure drop",
+    "time": null
+  },
+  {
+    "subject": "A significant pressure drop",
+    "relation": "occurs as",
+    "object": "fluid moves through the turbine",
+    "time": null
+  },
+  {
+    "subject": "Reaction turbines",
+    "relation": "work by",
+    "object": "channeling a fluid through a set of blades",
+    "time": "2021"
+  },
+  {
+    "subject": "Reaction turbines",
+    "relation": "expand",
+    "object": "the fluid",
+    "time": "2021"
+  },
+  {
+    "subject": "Reaction turbines",
+    "relation": "convert",
+    "object": "pressure into force on the blades",
+    "time": "2021"
+  },
+  {
+    "subject": "Stages of a reaction turbine",
+    "relation": "are optimized for",
+    "object": "the pressure in that part of the fluid flow",
+    "time": "2021"
+  },
+  {
+    "subject": "Wind turbines",
+    "relation": "are a visible type of",
+    "object": "reaction turbine",
+    "time": "2021"
+  },
+  {
+    "subject": "Gas turbines",
+    "relation": "are a visible type of",
+    "object": "reaction turbine",
+    "time": "2021"
+  },
+  {
+    "subject": "Most steam turbines",
+    "relation": "are a type of",
+    "object": "reaction turbine",
+    "time": "2021"
+  },
+  {
+    "subject": "Reaction turbines",
+    "relation": "use",
+    "object": "a shroud or case",
+    "time": "2021"
+  },
+  {
+    "subject": "A shroud or case",
+    "relation": "positions",
+    "object": "the fluid flow through the turbine blades",
+    "time": "2021"
+  },
+  {
+    "subject": "Fluid flow in reaction turbines",
+    "relation": "undergoes",
+    "object": "a significant pressure drop as the fluid moves through the turbine",
+    "time": "2021"
+  },
+  {
+    "subject": "Blades (in reaction turbines)",
+    "relation": "expand",
+    "object": "the fluid",
+    "time": "2021"
+  },
+  {
+    "subject": "Blades (in reaction turbines)",
+    "relation": "convert",
+    "object": "pressure into force",
+    "time": "2021"
+  },
+  {
+    "subject": "Each blade (in a reaction turbine)",
+    "relation": "receives",
+    "object": "the same load",
+    "time": "2021"
+  },
+  {
+    "subject": "Stages",
+    "relation": "are optimized for",
+    "object": "the pressure in that part of the fluid flow",
+    "time": "2021"
+  },
+  {
+    "subject": "Most steam turbines",
+    "relation": "are",
+    "object": "reaction turbines",
+    "time": "2021"
+  },
+  {
+    "subject": "Natural gas power turbines",
+    "relation": "are",
+    "object": "reaction turbines",
+    "time": "2021"
+  },
+  {
+    "subject": "A shroud or case",
+    "relation": "is used to position",
+    "object": "the fluid flow through the turbine blades",
+    "time": "2021"
+  },
+  {
+    "subject": "The flow in reaction turbines",
+    "relation": "undergoes",
+    "object": "a significant pressure drop",
+    "time": "2021"
+  },
+  {
+    "subject": "Reaction turbines",
+    "relation": "operate by",
+    "object": "channeling fluid through blades that expand fluid, converting pressure into force on the blades",
+    "time": "N/A"
+  },
+  {
+    "subject": "Each blade in a reaction turbine",
+    "relation": "receives",
+    "object": "the same load",
+    "time": "N/A"
+  },
+  {
+    "subject": "A reaction turbine",
+    "relation": "can have",
+    "object": "multiple sets of rotors (stages)",
+    "time": "N/A"
+  },
+  {
+    "subject": "Stages of a reaction turbine",
+    "relation": "are optimized for",
+    "object": "the pressure in that part of the fluid flow",
+    "time": "N/A"
+  },
+  {
+    "subject": "Wind turbines",
+    "relation": "are a type of",
+    "object": "reaction turbine",
+    "time": "N/A"
+  },
+  {
+    "subject": "Gas turbines used for jet engines",
+    "relation": "are a type of",
+    "object": "reaction turbine",
+    "time": "N/A"
+  },
+  {
+    "subject": "Most steam turbines",
+    "relation": "are",
+    "object": "reaction turbines",
+    "time": "N/A"
+  },
+  {
+    "subject": "Most natural gas power turbines",
+    "relation": "are",
+    "object": "reaction turbines",
+    "time": "N/A"
+  },
+  {
+    "subject": "Reaction turbines",
+    "relation": "use",
+    "object": "a shroud or case",
+    "time": "N/A"
+  },
+  {
+    "subject": "A shroud or case",
+    "relation": "is used to",
+    "object": "position the fluid flow through the turbine blades in reaction turbines",
+    "time": "N/A"
+  },
+  {
+    "subject": "Fluid flow in reaction turbines",
+    "relation": "undergoes",
+    "object": "a significant pressure drop",
+    "time": "N/A"
+  },
+  {
+    "subject": "Reaction turbines",
+    "relation": "work by channeling",
+    "object": "fluid through blades",
+    "time": "2021"
+  },
+  {
+    "subject": "Stages",
+    "relation": "are optimized for",
+    "object": "pressure in fluid flow",
+    "time": "2021"
+  },
+  {
+    "subject": "Gas turbines used for jet engines",
+    "relation": "are a type of",
+    "object": "reaction turbine",
+    "time": "2021"
+  },
+  {
+    "subject": "A shroud or case",
+    "relation": "positions",
+    "object": "fluid flow through turbine blades",
+    "time": "2021"
+  },
+  {
+    "subject": "Reaction turbines",
+    "relation": "work by",
+    "object": "channeling fluid through a set of blades",
+    "time": null
+  },
+  {
+    "subject": "Multiple sets of rotors (in a reaction turbine)",
+    "relation": "are called",
+    "object": "stages",
+    "time": null
+  },
+  {
+    "subject": "Stages (in a reaction turbine)",
+    "relation": "are optimized for",
+    "object": "the pressure in that part of the fluid flow",
+    "time": null
+  },
+  {
+    "subject": "Wind turbines",
+    "relation": "are a visible type of",
+    "object": "reaction turbine",
+    "time": null
+  },
+  {
+    "subject": "Gas turbines (used for jet engines)",
+    "relation": "are a visible type of",
+    "object": "reaction turbine",
+    "time": null
+  },
+  {
+    "subject": "Reaction turbines",
+    "relation": "use",
+    "object": "a shroud",
+    "time": null
+  },
+  {
+    "subject": "Reaction turbines",
+    "relation": "use",
+    "object": "a case",
+    "time": null
+  },
+  {
+    "subject": "A shroud (in reaction turbines)",
+    "relation": "positions",
+    "object": "the fluid flow through the turbine blades",
+    "time": null
+  },
+  {
+    "subject": "A case (in reaction turbines)",
+    "relation": "positions",
+    "object": "the fluid flow through the turbine blades",
+    "time": null
+  },
+  {
+    "subject": "The fluid flow (in reaction turbines)",
+    "relation": "undergoes",
+    "object": "a significant pressure drop",
+    "time": null
+  },
+  {
+    "subject": "A significant pressure drop",
+    "relation": "occurs as",
+    "object": "the fluid moves through the turbine",
+    "time": null
+  },
+  {
+    "subject": "Reaction turbines",
+    "relation": "work by",
+    "object": "channeling fluid through blades",
+    "time": "2021"
+  },
+  {
+    "subject": "Each blade in a reaction turbine",
+    "relation": "receives",
+    "object": "the same load",
+    "time": "2021"
+  },
+  {
+    "subject": "Stages in reaction turbines",
+    "relation": "are optimized for",
+    "object": "the pressure in that part of the fluid flow",
+    "time": "2021"
+  },
+  {
+    "subject": "Wind turbines",
+    "relation": "are a type of",
+    "object": "Reaction turbine",
+    "time": "2021"
+  },
+  {
+    "subject": "Gas turbines",
+    "relation": "are a type of",
+    "object": "Reaction turbine",
+    "time": "2021"
+  },
+  {
+    "subject": "Steam turbines",
+    "relation": "are a type of",
+    "object": "Reaction turbine",
+    "time": "2021"
+  },
+  {
+    "subject": "Natural gas power turbines",
+    "relation": "are a type of",
+    "object": "Reaction turbine",
+    "time": "2021"
+  },
+  {
+    "subject": "A shroud or case",
+    "relation": "is used to position",
+    "object": "fluid flow through the turbine blades",
+    "time": "2021"
+  },
+  {
+    "subject": "Reaction turbines",
+    "relation": "operate by",
+    "object": "channeling fluid through blades",
+    "time": "2021"
+  },
+  {
+    "subject": "Blades (reaction turbines)",
+    "relation": "expand",
+    "object": "fluid",
+    "time": "2021"
+  },
+  {
+    "subject": "Blades (reaction turbines)",
+    "relation": "convert",
+    "object": "pressure into force",
+    "time": "2021"
+  },
+  {
+    "subject": "Each blade (reaction turbine)",
+    "relation": "receives",
+    "object": "same load",
+    "time": "2021"
+  },
+  {
+    "subject": "Reaction turbine",
+    "relation": "can have",
+    "object": "multiple sets of rotors",
+    "time": "2021"
+  },
+  {
+    "subject": "Stages (reaction turbine)",
+    "relation": "are optimized for",
+    "object": "fluid pressure in flow part",
+    "time": "2021"
+  },
+  {
+    "subject": "Shroud or case (reaction turbine)",
+    "relation": "positions",
+    "object": "fluid flow through turbine blades",
+    "time": "2021"
+  },
+  {
+    "subject": "Fluid flow (in reaction turbines)",
+    "relation": "undergoes",
+    "object": "significant pressure drop",
+    "time": "2021"
+  },
+  {
+    "subject": "Significant pressure drop (in reaction turbines)",
+    "relation": "occurs as",
+    "object": "fluid moves through the turbine",
+    "time": "2021"
+  },
+  {
+    "subject": "Reaction turbines",
+    "relation": "work by",
+    "object": "channeling fluid through blades",
+    "time": "2023"
+  },
+  {
+    "subject": "Blades of reaction turbines",
+    "relation": "expand",
+    "object": "fluid",
+    "time": "2023"
+  },
+  {
+    "subject": "Blades of reaction turbines",
+    "relation": "convert",
+    "object": "pressure into force",
+    "time": "2023"
+  },
+  {
+    "subject": "Each blade of a reaction turbine",
+    "relation": "receives",
+    "object": "same load",
+    "time": "2023"
+  },
+  {
+    "subject": "Reaction turbine",
+    "relation": "can have",
+    "object": "multiple sets of rotors",
+    "time": "2023"
+  },
+  {
+    "subject": "Multiple sets of rotors",
+    "relation": "are called",
+    "object": "stages",
+    "time": "2023"
+  },
+  {
+    "subject": "Stages",
+    "relation": "are optimized for",
+    "object": "pressure in fluid flow",
+    "time": "2023"
+  },
+  {
+    "subject": "Wind turbines",
+    "relation": "are a type of",
+    "object": "reaction turbine",
+    "time": "2023"
+  },
+  {
+    "subject": "Gas turbines",
+    "relation": "are a type of",
+    "object": "reaction turbine",
+    "time": "2023"
+  },
+  {
+    "subject": "Gas turbines",
+    "relation": "are used for",
+    "object": "jet engines",
+    "time": "2023"
+  },
+  {
+    "subject": "Steam turbines",
+    "relation": "are a type of",
+    "object": "reaction turbine",
+    "time": "2023"
+  },
+  {
+    "subject": "Natural gas power turbines",
+    "relation": "are a type of",
+    "object": "reaction turbine",
+    "time": "2023"
+  },
+  {
+    "subject": "Reaction turbines",
+    "relation": "use",
+    "object": "shroud or case",
+    "time": "2023"
+  },
+  {
+    "subject": "Shroud or case",
+    "relation": "positions",
+    "object": "fluid flow through turbine blades",
+    "time": "2023"
+  },
+  {
+    "subject": "Fluid flow in reaction turbines",
+    "relation": "undergoes",
+    "object": "significant pressure drop",
+    "time": "2023"
+  },
+  {
+    "subject": "Significant pressure drop",
+    "relation": "occurs as",
+    "object": "fluid moves through the turbine",
+    "time": "2023"
+  }
+]
