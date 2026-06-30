@@ -1,4 +1,4 @@
-# Knowledge Graph Construction with Graph-Based Retrieval Augmented Generation (Graph-RAG)
+# REASONGRAPH: Explainable Knowledge Retrieval using Graph-RAG and LLMS
 
 A research-oriented project that combines **Knowledge Graphs**, **Large Language Models (LLMs)**, and **Graph-Based Retrieval** to build an explainable AI system for engineering knowledge retrieval.
 
